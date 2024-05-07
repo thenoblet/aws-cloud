@@ -1,2 +1,1 @@
-# aws
-Journing to Cloud Engineering
+# Journey to Cloud Engineering
