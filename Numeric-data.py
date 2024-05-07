@@ -1,0 +1,1 @@
+print("Python has Numeric data types: int, float, complex")
